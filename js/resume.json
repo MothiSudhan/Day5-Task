@@ -1,0 +1,25 @@
+[
+    {
+        "profile":{
+        "name" : "Mothi Sudhan", 
+        "job"  : "FullStack Developer",
+        "email": "mothisudhan95@gmail.com",
+        "place":["Dindigul","Tamilnadu","India"],
+        "contact":"9698709005",
+        "dob":"12.04.1995"
+                },
+        "education":{
+            "bacherlors":"B.A., English Literature",
+            "masters":"M.A., English Literature"
+        },
+        "skills":{
+              "programming languages":"Javascript,Salesforce Admin",
+              "experience":"Learning"
+        },
+        "links":{
+            "github":"https://github.com/MothiSudhan"
+        }
+    }
+
+]
+
